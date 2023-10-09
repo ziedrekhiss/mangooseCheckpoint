@@ -1,0 +1,5 @@
+in this checkpoint we perform a series of guided instructions to handle and manage your database while using Mongoose
+create a mongoDB database
+connect DB with mongo_URI
+create a schema called person with mangoose model
+and perform some CRUD operations 
